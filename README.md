@@ -1,4 +1,4 @@
-# Assignments for Applied Hands-on Computer Vision (ACV) course for Master CS at HPI
+# Assignments of Applied Hands-on Computer Vision (ACV) course for Master CS at HPI
 
 ## Assignments
 1. [Assignment 01a: Data Curation and Augmentation for Image Classification](src/assignment01a.ipynb)
