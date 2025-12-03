@@ -19,6 +19,8 @@ tqdm = "^4.67.1"
 umap-learn = "^0.5.9.post2"
 huggingface-hub = {extras = ["cli"], version = "^0.35.3"}
 transformers = "^4.57.1"
+wandb = "^0.23.0"
+weave = "^0.52.20"
 
 
 [tool.poetry.group.dev.dependencies]
